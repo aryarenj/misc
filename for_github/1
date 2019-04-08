@@ -1,0 +1,532 @@
+('31.13.66.35', 443)
+www.facebook.com
+9d31996c-62f6-4fe7-9606-90a5f9f100f0
+('www.facebook.com', 443)
+('10.0.2.15', 47429)
+TLSv1.2
+('::ffff:10.0.2.15', 56752, 0, 0)
+e9da7ee8-e953-497a-b7ba-9825f6fa24bc
+www.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.35', 443)
+facebook.com
+8cfac25e-38c7-40c4-ae0c-e36dc6c54c32
+('facebook.com', 443)
+('10.0.2.15', 59259)
+TLSv1.2
+('::ffff:10.0.2.15', 56754, 0, 0)
+f6ef48be-6fd3-4070-958f-082db279ad02
+facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.18', 443)
+cx.atdmt.com
+9980b845-9d78-40b5-b487-eee4e9e899e4
+('cx.atdmt.com', 443)
+('10.0.2.15', 40095)
+TLSv1.2
+('::ffff:10.0.2.15', 56758, 0, 0)
+9e9137ed-c650-4367-a36e-097392b876d2
+cx.atdmt.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.35', 443)
+fbsbx.com
+e109c6a2-6106-4565-8521-687a110d0482
+('fbsbx.com', 443)
+('10.0.2.15', 39925)
+TLSv1.2
+('::ffff:10.0.2.15', 56760, 0, 0)
+ab673ccb-4c1b-4997-b3db-b8b30362ef86
+fbsbx.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.35', 443)
+www.facebook.com
+9d31996c-62f6-4fe7-9606-90a5f9f100f0
+('www.facebook.com', 443)
+('10.0.2.15', 47429)
+TLSv1.2
+('::ffff:10.0.2.15', 56752, 0, 0)
+e9da7ee8-e953-497a-b7ba-9825f6fa24bc
+www.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('172.217.164.162', 443)
+googleads.g.doubleclick.net
+a8e64ae3-d234-4323-8e3a-32f2864235f6
+('googleads.g.doubleclick.net', 443)
+('10.0.2.15', 43703)
+TLSv1.2
+('::ffff:10.0.2.15', 56762, 0, 0)
+3a112238-13d3-4829-8690-709753421b7f
+googleads.g.doubleclick.net
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('172.217.7.164', 443)
+www.google.com
+af1b33de-d4ab-4fe3-a884-2448f6891d02
+('www.google.com', 443)
+('10.0.2.15', 34447)
+TLSv1.2
+('::ffff:10.0.2.15', 56764, 0, 0)
+2a0c5adb-84e8-43de-b188-5b0bfa16fd39
+www.google.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('172.217.7.164', 443)
+www.google.com
+af1b33de-d4ab-4fe3-a884-2448f6891d02
+('www.google.com', 443)
+('10.0.2.15', 34447)
+TLSv1.2
+('::ffff:10.0.2.15', 56764, 0, 0)
+2a0c5adb-84e8-43de-b188-5b0bfa16fd39
+www.google.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('172.217.7.164', 443)
+www.google.com
+af1b33de-d4ab-4fe3-a884-2448f6891d02
+('www.google.com', 443)
+('10.0.2.15', 34447)
+TLSv1.2
+('::ffff:10.0.2.15', 56764, 0, 0)
+2a0c5adb-84e8-43de-b188-5b0bfa16fd39
+www.google.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('172.217.7.164', 443)
+www.google.com
+af1b33de-d4ab-4fe3-a884-2448f6891d02
+('www.google.com', 443)
+('10.0.2.15', 34447)
+TLSv1.2
+('::ffff:10.0.2.15', 56764, 0, 0)
+2a0c5adb-84e8-43de-b188-5b0bfa16fd39
+www.google.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('172.217.7.164', 443)
+www.google.com
+af1b33de-d4ab-4fe3-a884-2448f6891d02
+('www.google.com', 443)
+('10.0.2.15', 34447)
+TLSv1.2
+('::ffff:10.0.2.15', 56764, 0, 0)
+2a0c5adb-84e8-43de-b188-5b0bfa16fd39
+www.google.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('131.118.254.46', 80)
+None
+a356fca2-edae-4b44-814d-4b014bcb35ee
+('detectportal.firefox.com', 80)
+('10.0.2.15', 57919)
+None
+('::ffff:10.0.2.15', 56768, 0, 0)
+900adba8-9008-4882-9bcc-05dc9570e963
+None
+None
+None
+None
+
+
+('31.13.66.35', 443)
+www.facebook.com
+9d31996c-62f6-4fe7-9606-90a5f9f100f0
+('www.facebook.com', 443)
+('10.0.2.15', 47429)
+TLSv1.2
+('::ffff:10.0.2.15', 56752, 0, 0)
+e9da7ee8-e953-497a-b7ba-9825f6fa24bc
+www.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.36', 443)
+pixel.facebook.com
+833010da-3783-4853-bf57-d0af81880ad1
+('pixel.facebook.com', 443)
+('10.0.2.15', 42179)
+TLSv1.2
+('::ffff:10.0.2.15', 56770, 0, 0)
+4e7dbe91-4e03-49d7-95a2-41955782a018
+pixel.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.36', 443)
+pixel.facebook.com
+833010da-3783-4853-bf57-d0af81880ad1
+('pixel.facebook.com', 443)
+('10.0.2.15', 42179)
+TLSv1.2
+('::ffff:10.0.2.15', 56770, 0, 0)
+4e7dbe91-4e03-49d7-95a2-41955782a018
+pixel.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.36', 443)
+pixel.facebook.com
+833010da-3783-4853-bf57-d0af81880ad1
+('pixel.facebook.com', 443)
+('10.0.2.15', 42179)
+TLSv1.2
+('::ffff:10.0.2.15', 56770, 0, 0)
+4e7dbe91-4e03-49d7-95a2-41955782a018
+pixel.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.36', 443)
+pixel.facebook.com
+833010da-3783-4853-bf57-d0af81880ad1
+('pixel.facebook.com', 443)
+('10.0.2.15', 42179)
+TLSv1.2
+('::ffff:10.0.2.15', 56770, 0, 0)
+4e7dbe91-4e03-49d7-95a2-41955782a018
+pixel.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.36', 443)
+pixel.facebook.com
+833010da-3783-4853-bf57-d0af81880ad1
+('pixel.facebook.com', 443)
+('10.0.2.15', 42179)
+TLSv1.2
+('::ffff:10.0.2.15', 56770, 0, 0)
+4e7dbe91-4e03-49d7-95a2-41955782a018
+pixel.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.36', 443)
+pixel.facebook.com
+833010da-3783-4853-bf57-d0af81880ad1
+('pixel.facebook.com', 443)
+('10.0.2.15', 42179)
+TLSv1.2
+('::ffff:10.0.2.15', 56770, 0, 0)
+4e7dbe91-4e03-49d7-95a2-41955782a018
+pixel.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('54.186.239.73', 443)
+push.services.mozilla.com
+6ba54d01-6fcd-48f3-974d-999a4f29cf4d
+('push.services.mozilla.com', 443)
+('10.0.2.15', 48849)
+TLSv1.2
+('::ffff:10.0.2.15', 56772, 0, 0)
+c9bdf821-6c07-4da9-ba7c-00352361e58b
+push.services.mozilla.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('99.84.104.115', 443)
+firefox.settings.services.mozilla.com
+b9d2f504-02ec-481f-a950-e7f7546adefe
+('firefox.settings.services.mozilla.com', 443)
+('10.0.2.15', 35551)
+TLSv1.2
+('::ffff:10.0.2.15', 56774, 0, 0)
+1b9a9953-daef-44a9-8b5f-5b9e8637f399
+firefox.settings.services.mozilla.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('99.84.104.115', 443)
+firefox.settings.services.mozilla.com
+b9d2f504-02ec-481f-a950-e7f7546adefe
+('firefox.settings.services.mozilla.com', 443)
+('10.0.2.15', 35551)
+TLSv1.2
+('::ffff:10.0.2.15', 56774, 0, 0)
+1b9a9953-daef-44a9-8b5f-5b9e8637f399
+firefox.settings.services.mozilla.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('99.84.104.115', 443)
+firefox.settings.services.mozilla.com
+b9d2f504-02ec-481f-a950-e7f7546adefe
+('firefox.settings.services.mozilla.com', 443)
+('10.0.2.15', 35551)
+TLSv1.2
+('::ffff:10.0.2.15', 56774, 0, 0)
+1b9a9953-daef-44a9-8b5f-5b9e8637f399
+firefox.settings.services.mozilla.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.36', 443)
+pixel.facebook.com
+833010da-3783-4853-bf57-d0af81880ad1
+('pixel.facebook.com', 443)
+('10.0.2.15', 42179)
+TLSv1.2
+('::ffff:10.0.2.15', 56770, 0, 0)
+4e7dbe91-4e03-49d7-95a2-41955782a018
+pixel.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.36', 443)
+pixel.facebook.com
+833010da-3783-4853-bf57-d0af81880ad1
+('pixel.facebook.com', 443)
+('10.0.2.15', 42179)
+TLSv1.2
+('::ffff:10.0.2.15', 56770, 0, 0)
+4e7dbe91-4e03-49d7-95a2-41955782a018
+pixel.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.36', 443)
+pixel.facebook.com
+833010da-3783-4853-bf57-d0af81880ad1
+('pixel.facebook.com', 443)
+('10.0.2.15', 42179)
+TLSv1.2
+('::ffff:10.0.2.15', 56770, 0, 0)
+4e7dbe91-4e03-49d7-95a2-41955782a018
+pixel.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.36', 443)
+pixel.facebook.com
+833010da-3783-4853-bf57-d0af81880ad1
+('pixel.facebook.com', 443)
+('10.0.2.15', 42179)
+TLSv1.2
+('::ffff:10.0.2.15', 56770, 0, 0)
+4e7dbe91-4e03-49d7-95a2-41955782a018
+pixel.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.36', 443)
+pixel.facebook.com
+833010da-3783-4853-bf57-d0af81880ad1
+('pixel.facebook.com', 443)
+('10.0.2.15', 42179)
+TLSv1.2
+('::ffff:10.0.2.15', 56770, 0, 0)
+4e7dbe91-4e03-49d7-95a2-41955782a018
+pixel.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.36', 443)
+pixel.facebook.com
+833010da-3783-4853-bf57-d0af81880ad1
+('pixel.facebook.com', 443)
+('10.0.2.15', 42179)
+TLSv1.2
+('::ffff:10.0.2.15', 56770, 0, 0)
+4e7dbe91-4e03-49d7-95a2-41955782a018
+pixel.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('131.118.254.46', 80)
+None
+a356fca2-edae-4b44-814d-4b014bcb35ee
+('detectportal.firefox.com', 80)
+('10.0.2.15', 57919)
+None
+('::ffff:10.0.2.15', 56768, 0, 0)
+900adba8-9008-4882-9bcc-05dc9570e963
+None
+None
+None
+None
+
+
+('31.13.66.35', 443)
+www.facebook.com
+e8cb01bb-1f71-413b-ac47-235d91cbe973
+('www.facebook.com', 443)
+('10.0.2.15', 40025)
+TLSv1.2
+('::ffff:10.0.2.15', 56776, 0, 0)
+93f7e752-aa44-42cc-af25-be29607ef1af
+www.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.35', 443)
+www.facebook.com
+e8cb01bb-1f71-413b-ac47-235d91cbe973
+('www.facebook.com', 443)
+('10.0.2.15', 40025)
+TLSv1.2
+('::ffff:10.0.2.15', 56776, 0, 0)
+93f7e752-aa44-42cc-af25-be29607ef1af
+www.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('23.196.96.192', 443)
+getpocket.cdn.mozilla.net
+9b0ee4f3-8732-494d-a6b6-50edb75f9625
+('getpocket.cdn.mozilla.net', 443)
+('10.0.2.15', 41929)
+TLSv1.2
+('::ffff:10.0.2.15', 56778, 0, 0)
+3ed7c7bf-6d78-4d8a-bb77-eeab84ff80ac
+getpocket.cdn.mozilla.net
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('23.196.96.192', 443)
+getpocket.cdn.mozilla.net
+9b0ee4f3-8732-494d-a6b6-50edb75f9625
+('getpocket.cdn.mozilla.net', 443)
+('10.0.2.15', 41929)
+TLSv1.2
+('::ffff:10.0.2.15', 56778, 0, 0)
+3ed7c7bf-6d78-4d8a-bb77-eeab84ff80ac
+getpocket.cdn.mozilla.net
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('52.41.78.152', 443)
+tiles.services.mozilla.com
+9da79bdf-2967-4550-b039-9756014c3ae7
+('tiles.services.mozilla.com', 443)
+('10.0.2.15', 45059)
+TLSv1.2
+('::ffff:10.0.2.15', 56782, 0, 0)
+869a9a7e-fb35-41c3-94ab-f129625574ba
+tiles.services.mozilla.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('52.41.78.152', 443)
+tiles.services.mozilla.com
+b94915a8-7ac8-415b-b9c2-18de9127e3b2
+('tiles.services.mozilla.com', 443)
+('10.0.2.15', 46781)
+TLSv1.2
+('::ffff:10.0.2.15', 56780, 0, 0)
+8aa94162-8b93-44e8-8368-4b5e4a22a4c6
+tiles.services.mozilla.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('172.217.5.234', 443)
+safebrowsing.googleapis.com
+36bff53a-609e-44c5-abe2-2f0aca080079
+('safebrowsing.googleapis.com', 443)
+('10.0.2.15', 35127)
+TLSv1.2
+('::ffff:10.0.2.15', 56784, 0, 0)
+c5c7c703-29a7-427a-8f91-57020dc901d8
+safebrowsing.googleapis.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
+('31.13.66.35', 443)
+www.facebook.com
+2c216626-b042-4e03-ae95-32b69de717c4
+('www.facebook.com', 443)
+('10.0.2.15', 40263)
+TLSv1.2
+('::ffff:10.0.2.15', 56788, 0, 0)
+f03e3110-7d7c-463e-91cd-066eda72cc78
+www.facebook.com
+TLSv1.2
+ECDHE-RSA-AES128-GCM-SHA256
+None
+
+
